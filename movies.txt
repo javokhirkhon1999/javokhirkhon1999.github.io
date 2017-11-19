@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>My favorite movies</title>
+<link rel="stylesheet" href="styles.css"/>
+</head>
+
+<h1>Thor:Ragnarok</h1>
+<hr/>
+
+
+<a href="http://www.imdb.com/title/tt3501632/?ref_=fn_al_ch_1a">
+  <center><img src="4.jpg" style="width:300px;height:400px;">
+</a>
+
+<h2>Genres:</h2>
+<p>Action | Adventure | Comedy | Sci-Fi</p>
+
+<h2>Release Date:</h2>
+<p>2 November 2017</p>
+
+<h2>Description:</h2>
+<p>Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.</p>
+
+<h2>Cast:</h2>
+<p>Chris Hemsworth-Thor  Tom Hiddleston-Loki  Cate Blanchett-Hela  Idris Elba-Heimdall  Jeff Goldblum-Grandmaster  Tessa Thompson-Valkyriy  Karl Urban-Skurge  Mark Ruffalo-Bruce Banner  Anthony Hopkins-Odin</p>
+
+
+
+<h1>Star Wars: The Last Jedi </h1>
+<hr/>
+
+
+<a href="http://www.imdb.com/title/tt2527336/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3395598002&pf_rd_r=01WSF0QBYT5V5NR6F0VY&pf_rd_s=hero&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_hp_cap_pri_1">
+  <center><img src="3.jpg" style="width:300px;height:400px;">
+</a>
+
+<h2>Genres:</h2>
+<p> Action |  Adventure |  Fantasy |  Sci-Fi </p>
+
+<h2>Release Date:</h2>
+<p> 14 December 2017 </p>
+
+<h2>Description:</h2>
+<p>Having taken her first steps into the Jedi world, Rey joins Luke Skywalker on an adventure with Leia, Finn and Poe that unlocks mysteries of the Force and secrets of the past. </p>
+
+<h2>Cast:</h2>
+<p>Daisy Ridley-Rey  Tom Hardy-Stormtrooper  Billie Lourd-Lieutenant Connix  Andy Serkis-Supreme Leader Snoke  Domhnall Gleeson-General Hux  Carrie Fisher-Leia  Mark Hamill-Luke Skywalker  
+</p>
+
+
+
+<h1>Justice League </h1>
+<hr/>
+
+
+<a href="http://www.imdb.com/title/tt0974015/?ref_=nv_sr_1">
+  <center><img src="5.jpg" style="width:300px;height:400px;">
+</a>
+
+<h2>Genres:</h2>
+<p>  Action |  Adventure |  Fantasy |  Sci-Fi </p>
+
+<h2>Release Date:</h2>
+<p>16 November 2017 </p>
+
+<h2>Description:</h2>
+<p>Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy. Together, Batman and Wonder Woman work quickly to find and recruit a team of metahumans to stand against this newly awakened threat. But despite the formation of this unprecedented league of heroes-Batman, Wonder Woman, Aquaman, Cyborg and The Flash-it may already be too late to save the planet from an assault of catastrophic proportions. </p>
+
+<h2>Cast:</h2>
+<p>Ben Affleck-Batman / Bruce Wayne  Henry Cavill-Superman / Clark Kent  Amy Adams-Lois Lane  Gal Gadot-Wonder Woman / Diana Prince  </p>
+
+
+<h1>The Judge </h1>
+<hr/>
+
+
+<a href="http://www.imdb.com/title/tt1872194/?ref_=nv_sr_2">
+  <center><img src="2.jpg" style="width:300px;height:400px;">
+</a>
+
+<h2>Genres:</h2>
+<p> Crime |  Drama </p>
+
+<h2>Release Date:</h2>
+<p>16 October 2014 </p>
+
+<h2>Description:</h2>
+<p>Hank Palmer is a successful defense attorney in Chicago, who is getting a divorce. When His brother calls with the news that their mother has died, Hank returns to his childhood home to attend the funeral. Despite the brittle bond between Hank and the Judge, Hank must come to his father's aid and defend him in court. Here, Hank discovers the truth behind the case, which binds together the dysfunctional family and reveals the struggles and secrecy of the family. Written by Warren D'Souza </p>
+
+<h2>Cast:</h2>
+<p>Robert Downey Jr.-Hank Palmer  Robert Duvall-Joseph Palmer  Vera Farmiga-Samantha Powell  Billy Bob Thornton-Dwight Dickham   </p>
+
+<a href="index.htm">Home</a>
+
+</body>
+</html>

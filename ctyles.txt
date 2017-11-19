@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+
+body {
+    background-color: white;
+}
+
+
+h1,h2 {
+	font-family: Verdana, sans-serif;
+    
+    font-size:30px;
+
+    color: darkblue;
+
+    text-align:center;
+}
+p{
+	font-family: Arial, sans-serif;
+    
+    font-size:20px;
+
+    color: blue;
+
+}
+
+
+
+</style>
+</head>
+</html>
